@@ -1,7 +1,7 @@
-
+import lowballer from "./lowballer";
 
 export const modules = [
-    
+    lowballer
 ]
 
 export function refresh_modules() {
